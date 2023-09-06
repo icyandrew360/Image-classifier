@@ -3,3 +3,4 @@ Pillow
 tensorflow
 matplotlib
 notebook
+jupyterlab
